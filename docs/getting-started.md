@@ -337,3 +337,6 @@ then amend or rewrite the offending commits.
 `--type signing`, or the commit was made before `commit.gpgsign` was enabled.
 
 For anything else: ask your Berufsbildner/in or open an issue.
+
+
+;-)
