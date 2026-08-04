@@ -338,5 +338,4 @@ then amend or rewrite the offending commits.
 
 For anything else: ask your Berufsbildner/in or open an issue.
 
-
 ;-)
