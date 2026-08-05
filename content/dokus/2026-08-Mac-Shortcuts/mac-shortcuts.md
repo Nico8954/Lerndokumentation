@@ -68,3 +68,5 @@ Ausserdem können im Suchbarren rechnungen eingegeben werden.
 
 Ich finde den Laptop immer noch ungewohnt zu bedienen, ich bin mir aber sicher,
 dass ich mithilfe der jetzigen Recherche mich schnell daran gewöhnen werde.
+
+.
