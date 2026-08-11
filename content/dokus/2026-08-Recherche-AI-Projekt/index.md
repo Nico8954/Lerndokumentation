@@ -6,7 +6,6 @@ description = "Recherche zum Projekt im 2. Lehrjahr."
 tags = ["AI", "Projekt"]
 +++
 
-
 # Rechercheauftrag: On-Device-AI für mobile Apps
 
 ## Auftrag
@@ -299,7 +298,7 @@ Beantwortet zu jedem gefundenen Modell kurz folgende Fragen:
 ### Tabelle für die Modelle
 
 | Nr. | Modell                           | Aufgabe                            | Grösse                      | Offline möglich | Smartphone geeignet | Quelle       |
-| --: | -------------------------------- | ---------------------------------- |-----------------------------| --------------- | ------------------- | ------------ |
+| --: | -------------------------------- | ---------------------------------- | --------------------------- | --------------- | ------------------- | ------------ |
 |   1 | MiniCPM-V 1.0                    | Bild erkennung/ Beschreibung       | 3 Milliarden                | Ja              | Ja                  | Hugging Face |
 |   2 | Krea 2 Raw                       | Bild generierung                   | 1,2 Milliarden              | Nein            | Nein                | Hugging Face |
 |   3 | Qwen2.5-1.5B-Instruct            | Text generierung                   | 1,54 Milliarden             | Ja              | Ja                  | Hugging Face |

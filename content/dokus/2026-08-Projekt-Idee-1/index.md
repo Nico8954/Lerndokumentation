@@ -6,7 +6,6 @@ description = "2. Projekt Idee."
 tags = ["AI", "Projekt"]
 +++
 
-
 # Projektauftrag: Zwei Ideen für eine On-Device-AI-App
 
 ## Auftrag
