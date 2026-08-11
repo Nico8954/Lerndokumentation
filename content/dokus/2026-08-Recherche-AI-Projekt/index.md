@@ -1,3 +1,12 @@
++++
+title = "Recherche AI Projekt"
+date = 2026-08-07
+description = "Recherche zum Projekt im 2. Lehrjahr."
+[extra]
+tags = ["AI", "Projekt"]
++++
+
+
 # Rechercheauftrag: On-Device-AI für mobile Apps
 
 ## Auftrag
@@ -290,9 +299,9 @@ Beantwortet zu jedem gefundenen Modell kurz folgende Fragen:
 ### Tabelle für die Modelle
 
 | Nr. | Modell                           | Aufgabe                            | Grösse                      | Offline möglich | Smartphone geeignet | Quelle       |
-| --: | -------------------------------- | ---------------------------------- | --------------------------- | --------------- | ------------------- | ------------ |
+| --: | -------------------------------- | ---------------------------------- |-----------------------------| --------------- | ------------------- | ------------ |
 |   1 | MiniCPM-V 1.0                    | Bild erkennung/ Beschreibung       | 3 Milliarden                | Ja              | Ja                  | Hugging Face |
-|   2 | Krea 2 Raw                       | Bild generierung                   | 12 Milliarden               | Nein            | Nein                | Hugging Face |
+|   2 | Krea 2 Raw                       | Bild generierung                   | 1,2 Milliarden              | Nein            | Nein                | Hugging Face |
 |   3 | Qwen2.5-1.5B-Instruct            | Text generierung                   | 1,54 Milliarden             | Ja              | Ja                  | Hugging Face |
 |   4 | SmolLM2-360M-Instruct            | Text generierung                   | 135 mio / 360 mio / 1,7 mia | Ja              | Ja                  | Hugging Face |
 |   5 | LFM2-1.2B                        | Text generierung                   | 1,2 Milliarden              | Ja              | Ja                  | Hugging Face |
