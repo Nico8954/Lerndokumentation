@@ -1,7 +1,7 @@
 +++
 title = "1. Projekt Idee"
 date = 2026-08-10
-description = "2. Projekt Idee."
+description = "1. Projekt Idee."
 [extra]
 tags = ["AI", "Projekt"]
 +++
