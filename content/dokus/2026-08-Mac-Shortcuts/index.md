@@ -1,5 +1,5 @@
 +++
-title = "Beispiel: HTTP-Grundlagen"
+title = "Mac Shortcuts"
 date = 2026-08-05
 description = "Welche Shortcuts ich brauchen werde."
 [extra]
